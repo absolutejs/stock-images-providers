@@ -1,0 +1,12 @@
+{
+  "name": "@absolutejs/stock-images-providers",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "pexels",
+    "unsplash"
+  ],
+  "scripts": {
+    "check:package": "bun run --filter './*' check:package"
+  }
+}
