@@ -1,6 +1,6 @@
 {
   "name": "@absolutejs/stock-images-pexels",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Server-side Pexels search and selection provider for AbsoluteJS stock images.",
   "type": "module",
   "license": "Apache-2.0",
@@ -41,8 +41,8 @@
   "dependencies": {
     "@absolutejs/manifest": "^0.10.0",
     "@sinclair/typebox": "^0.34.0",
-    "zod": "4.4.3",
-    "@absolutejs/stock-images": "0.1.0"
+    "zod": "4.6.7",
+    "@absolutejs/stock-images": "0.1.2"
   },
   "devDependencies": {
     "typescript": "^5.9.3",
